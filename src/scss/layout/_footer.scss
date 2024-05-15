@@ -29,29 +29,6 @@
     text-decoration: none;
 }
 
-/* .nav {
-    display: grid;
-    grid-template-columns: 1fr;
-    text-align: center;
-    padding: 15px;
-}
-
-.container_copyright {
-    display: grid;
-    grid-template-columns: 1fr;
-    text-align: center;
-}
-
-.copyright {
-    padding-bottom: 10px;
-}
-
-.love {
-    padding-bottom: 20px;
-} */
-
-/*  Pruebas con flex */
-
 .nav {
     display: flex;
     flex-direction: column;
