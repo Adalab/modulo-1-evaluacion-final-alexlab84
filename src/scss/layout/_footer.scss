@@ -29,7 +29,7 @@
     text-decoration: none;
 }
 
-.nav {
+/* .nav {
     display: grid;
     grid-template-columns: 1fr;
     text-align: center;
@@ -43,16 +43,16 @@
 }
 
 .copyright {
-    padding-bottom: 20px;
+    padding-bottom: 10px;
 }
 
 .love {
     padding-bottom: 20px;
-}
+} */
 
 /*  Pruebas con flex */
 
-/* .nav {
+.nav {
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -61,5 +61,5 @@
 .ul {
     display: flex;
     flex-direction: column;
-    
-} */
+    padding: 10px;
+}
