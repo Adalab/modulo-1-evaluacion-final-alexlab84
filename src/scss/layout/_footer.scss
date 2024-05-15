@@ -1,0 +1,51 @@
+.footer {
+    background-color: #4a4a4a;
+    color: white;
+  }
+  .scroll_footer {
+    display: grid;
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+  
+  .ico-arrow {
+    margin-top: 1px;
+  }
+  
+  .scroll_down {
+    width: 45px;
+    height: 45px;
+    border: none;
+    border-radius: 50%;
+    padding-top: 6px;
+  }
+  
+  .list_link {
+    padding: 5px;
+  }
+  
+  .link_decoration {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .nav {
+    display: grid;
+    grid-template-columns: 1fr;
+    text-align: center;
+    padding: 5px;
+  }
+  
+  .container_copyright {
+    display: grid;
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+  
+  .copyright {
+    padding-bottom: 20px;
+  }
+  
+  .love {
+    padding-bottom: 20px;
+  }
